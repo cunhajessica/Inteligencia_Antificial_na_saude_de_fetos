@@ -35,4 +35,4 @@ O que você vai ver neste projeto?
 * **[Previsão de Churn para uma empresa de Telecomunicações](http://bitly.ws/sIyx)**
 * **[IA na Detecção de fraudes em cartões de crédito](http://bitly.ws/rLY5)**
 * **[Prevendo o valor do Seguro de Vida](https://github.com/cunhajessica/Previsao_Seguro_de_Vida)**
-* **[Previsão de Demanda utilizando o Prophet](https://github.com/cunhajessica/Times_Series_Forecasting_Prophet/blob/main/README.md)
+* **[Previsão de Demanda utilizando o Prophet](https://github.com/cunhajessica/Times_Series_Forecasting_Prophet/blob/main/README.md)**
