@@ -9,7 +9,7 @@ width=700px >
 
 ## Inteligência artificial auxiliando na saúde de bebês, antes mesmo de nascer
 
-Nesse projeto vamos desenvolver um algoritmo de machine learning para classificar o estado de saúde de fetos na maternidade, através dos resultados do Cardiograma, auxiliando na saúde de fetos e na redução da mortalidade infantil.
+Nesse projeto vamos desenvolver um algoritmo de machine learning para classificar o estado de saúde de fetos na maternidade, através dos resultados do Cardiotocograma, auxiliando na saúde de fetos e na redução da mortalidade infantil.
 
 O que você vai ver neste projeto?
 * Como verificar a saúde de fetos na maternidade com inteligência artificial
